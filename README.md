@@ -1,5 +1,5 @@
 # Big Game Survey 
-[![NPM](https://github.com/duarte-arthur21/project-laravel/blob/main/LICENCE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/duarte-arthur21/project-laravel/blob/main/LICENCE)
 
 # Sobre o projeto
 
