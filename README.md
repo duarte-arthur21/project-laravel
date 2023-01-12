@@ -68,7 +68,6 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+Arthur Ferreira da Silva Duarte
 
-https://www.linkedin.com/in/wmazoni
-
+https://www.linkedin.com/in/arthur-duarte-92931b201/
