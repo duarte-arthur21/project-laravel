@@ -3,14 +3,9 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+Este projeto foi desenvolvido como requisito parcial, para aprovação no processo seletivo do projeto de extensão **Desenvolviemnto de Soluções Web para o Comercio Local**, projeto organizado pela [Re9 Agência](https://www.re9agencia.com.br/ "Site da Re9 Agência") e financiada pelo Fundo de Amparo as Ciêcnias de Pernambuco (FACEPE).
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
-
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+A aplicação consiste em um blog para o Museu de Ciências Professor Antônio Carneiro, onde além de informações é também possivel realizar agendamentos de visitas ao museu.
 
 ## Layout web
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
