@@ -8,9 +8,6 @@ Este projeto foi desenvolvido como requisito parcial, para aprovação no proces
 A aplicação consiste em um blog para o Museu de Ciências Professor Antônio Carneiro, onde além de informações é também possivel realizar agendamentos de visitas ao museu.
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/duarte-arthur21/project-laravel/blob/main/assents/Imagem1.png)
