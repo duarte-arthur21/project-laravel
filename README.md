@@ -45,7 +45,17 @@ XAMPP: https://www.apachefriends.org/pt_br/
 - Com o PHP instalado, poderemos programar nessa linguagem e o servidor conseguirá interpretar os códigos.
 
 - Com o Phpmyadmin, conseguiremos criar bancos de dados, onde iremos armazenar informações e utilizá-las nas nossas aplicações.
+```
 
+```bash
+# Instale o composer
+Composer https://getcomposer.org/
+
+- Realize o Download e siga os passos da instalação convencional.
+
+```
+
+```bash
 # clonar repositório
 git clone https://github.com/duarte-arthur21/project-laravel
 
