@@ -36,8 +36,18 @@ A aplicação consiste em um blog para o Museu de Ciências Professor Antônio C
 Pré-requisitos: Composer / Xampp / Laravel
 
 ```bash
+# Instale o XAMPP
+XAMPP: https://www.apachefriends.org/pt_br/
+- Siga a instalação convencional. A partir da instalação do XAMPP, vocês terão: um servidor local (Apache), o PHP, e um gerenciador de banco de dados (Phpmyadmin).
+
+- Com o Apache, nosso servidor local, conseguiremos desenvolver as aplicações web e testar a arquitetura cliente-servidor, que vimos durante a nossa primeira aula.
+
+- Com o PHP instalado, poderemos programar nessa linguagem e o servidor conseguirá interpretar os códigos.
+
+- Com o Phpmyadmin, conseguiremos criar bancos de dados, onde iremos armazenar informações e utilizá-las nas nossas aplicações.
+
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/duarte-arthur21/project-laravel
 
 # entrar na pasta do projeto back end
 cd backend
