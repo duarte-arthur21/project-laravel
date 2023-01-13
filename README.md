@@ -38,9 +38,11 @@ Pré-requisitos: Composer / Xampp / Laravel
 ```bash
 # Instale o XAMPP
 XAMPP: https://www.apachefriends.org/pt_br/
-- Siga a instalação convencional. A partir da instalação do XAMPP, vocês terão: um servidor local (Apache), o PHP, e um gerenciador de banco de dados (Phpmyadmin).
+- Siga a instalação convencional. A partir da instalação do XAMPP, vocês terão: um servidor local (Apache), o PHP, 
+  e um gerenciador de banco de dados (Phpmyadmin).
 
-- Com o Apache, nosso servidor local, conseguiremos desenvolver as aplicações web e testar a arquitetura cliente-servidor, que vimos durante a nossa primeira aula.
+- Com o Apache, nosso servidor local, conseguiremos desenvolver as aplicações web e testar a arquitetura cliente-servidor, 
+  que vimos durante a nossa primeira aula.
 
 - Com o PHP instalado, poderemos programar nessa linguagem e o servidor conseguirá interpretar os códigos.
 
@@ -52,6 +54,17 @@ XAMPP: https://www.apachefriends.org/pt_br/
 Composer https://getcomposer.org/
 
 - Realize o Download e siga os passos da instalação convencional.
+
+```
+```bash
+# Instale o Laravel
+No cmd excute: composer global require laravel/installer
+
+# Entrar na Pasta do projeto
+cd project-laravel
+
+# Execute o Projeto
+php artisan serve
 
 ```
 
