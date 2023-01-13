@@ -28,7 +28,6 @@ A aplicação consiste em um blog para o Museu de Ciências Professor Antônio C
 
 # Como executar o projeto
 
-## Back end
 Pré-requisitos: Composer / Xampp / Laravel
 
 ```bash
@@ -69,17 +68,6 @@ cd project-laravel
 # Execute o Projeto
 php artisan serve
 
-```
-
-## Front end web
-Pré-requisitos: npm / node.js
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
 ```
 
 # Autor
