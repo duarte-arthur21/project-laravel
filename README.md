@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Este projeto foi desenvolvido como requisito parcial, para aprovação no processo seletivo do projeto de extensão **Desenvolviemnto de Soluções Web para o Comercio Local**, projeto organizado pela [Re9 Agência](https://www.re9agencia.com.br/ "Site da Re9 Agência") e financiada pelo Fundo de Amparo as Ciêcnias de Pernambuco (FACEPE).
+Este projeto foi desenvolvido como requisito parcial, para aprovação no processo seletivo do projeto de extensão **Desenvolviemnto de Soluções Web para o Comercio Local**, projeto organizado pela [Re9 Agência](https://www.re9agencia.com.br/ "Site da Re9 Agência") e financiada pelo Fundo de Amparo as Ciências de Pernambuco (FACEPE).
 
 A aplicação consiste em um blog para o Museu de Ciências Professor Antônio Carneiro, onde além de informações é também possivel realizar agendamentos de visitas ao museu.
 
