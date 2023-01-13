@@ -25,10 +25,6 @@ A aplicação consiste em um blog para o Museu de Ciências Professor Antônio C
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div></br>
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
 
 # Como executar o projeto
 
@@ -56,6 +52,13 @@ Composer https://getcomposer.org/
 - Realize o Download e siga os passos da instalação convencional.
 
 ```
+
+```bash
+# clonar repositório
+git clone https://github.com/duarte-arthur21/project-laravel
+
+```
+
 ```bash
 # Instale o Laravel
 No cmd excute: composer global require laravel/installer
@@ -68,17 +71,6 @@ php artisan serve
 
 ```
 
-```bash
-# clonar repositório
-git clone https://github.com/duarte-arthur21/project-laravel
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
 ## Front end web
 Pré-requisitos: npm / node.js
 
@@ -88,12 +80,6 @@ git clone https://github.com/devsuperior/sds1-wmazoni
 
 # entrar na pasta do projeto front end web
 cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
 ```
 
 # Autor
