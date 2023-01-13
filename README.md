@@ -13,7 +13,7 @@ A aplicação consiste em um blog para o Museu de Ciências Professor Antônio C
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/duarte-arthur21/project-laravel/blob/main/assents/Imagem1.png)
 
 # Tecnologias utilizadas
 ## Back end
