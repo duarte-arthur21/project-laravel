@@ -36,7 +36,7 @@ A aplicação consiste em um blog para o Museu de Ciências Professor Antônio C
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 11
+Pré-requisitos: Composer / Xampp / Laravel
 
 ```bash
 # clonar repositório
@@ -50,7 +50,7 @@ cd backend
 ```
 
 ## Front end web
-Pré-requisitos: npm / yarn
+Pré-requisitos: npm / node.js
 
 ```bash
 # clonar repositório
